@@ -12,7 +12,7 @@ def scan(url, file)
 end
 
 # usage
-puts "Enter the website URL (e.g. http://example.com):"
+puts " [*] Enter the website URL (e.g. http://example.com):"
 url = gets.chomp
 files = ["/index.html", "/secret_file.txt"]
 files.each { |file| scan(url, file) }
