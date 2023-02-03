@@ -33,10 +33,7 @@ git clone https://github.com/R3DHULK/website-scanner-in-ruby
 # Change Directory
 cd website-scanner-in-ruby
 
-# For Running This Tool
-# Go To Code Of This Tool And Change The Domain Name
-# For Myself I Used example.com
-# And Then Run The Tool
+# To Run The Tool
 ruby website-scanner.rb
 
 ```
